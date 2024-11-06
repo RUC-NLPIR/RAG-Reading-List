@@ -1,5 +1,7 @@
 # RAG-Reading-List
 
+This repository is used to collect recent studies on RAG methods, benchmarks, and toolkits. Welcome any updates through pull requests.
+
 ### Method
 
 1. **In-Context Retrieval-Augmented Language Models**
