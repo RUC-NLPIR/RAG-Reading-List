@@ -13,6 +13,9 @@ This repository is used to collect recent studies on RAG methods, benchmarks, an
 2. **PlanXRAG: Planning-guided Retrieval Augmented Generation**
    - arXiv, 2024-10-28, https://arxiv.org/abs/2410.20753
    - Prakhar Verma, Sukruta Prakash Midigeshi, Gaurav Sinha, Arno Solin, Nagarajan Natarajan, Amit Sharma
+3. **RQ-RAG: Learning to Refine Queries for Retrieval Augmented Generation**
+   - arXiv, 2024-03-31 , https://arxiv.org/abs/2404.00610
+   - Chi-Min Chan, Chunpu Xu, Ruibin Yuan, Hongyin Luo, Wei Xue, Yike Guo, Jie Fu
 
 ### Multimodal
 
