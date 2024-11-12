@@ -36,7 +36,7 @@ This repository is used to collect recent studies on RAG methods, benchmarks, an
 6. **VisRAG: Vision-based Retrieval-augmented Generation on Multi-modality Documents**
    - arXiv 2024-10-14, https://arxiv.org/abs/2410.10594
    - Shi Yu, Chaoyue Tang, Bokai Xu, Junbo Cui, Junhao Ran, Yukun Yan, Zhenghao Liu, Shuo Wang, Xu Han, Zhiyuan Liu, Maosong Sun
-   - TL;DR: Authors directly view web pages as images instead of spliting text or image information blocks. They use multi-modal retriever and Visiual-understanding LLMs to build VisRAG framework and evaluate models on various visual QA tasks.
+   - TL;DR: Authors directly view web pages as images instead of spliting text or image information blocks. They use multi-modal retriever and Visual-understanding LLMs to build VisRAG framework and evaluate models on various visual QA tasks.
 7. **iRAG: Advancing RAG for Videos with an Incremental Approach**
    - CIKM, 2024-10-21, https://dl.acm.org/doi/10.1145/3627673.3680088
    - Md Adnan Arefeen, Biplob Debnath, Md Yusuf Sarwar Uddin, Srimat Chakradhar
