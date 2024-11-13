@@ -50,6 +50,11 @@ This repository is used to collect recent studies on RAG methods, benchmarks, an
 
 ## 📊 Benchmark
 
+### Conversational
+1. **RAC: Retrieval-augmented Conversation Dataset for Open-domain Question Answering in Conversational Settings**
+   - EMNLP 2024 Industry Track, https://aclanthology.org/2024.emnlp-industry.108
+   - Bonggeun Choi, JeongJae Park, Yoonsung Kim, Jaehyun Park, Youngjoong Ko
+
 ## 🛠️ Toolkit
 1. **RETA-LLM: A Retrieval-Augmented Large Language Model Toolkit**
    - arXiv, 2023-6-8, https://arxiv.org/abs/2306.05212
