@@ -17,6 +17,7 @@ This repository is used to collect recent studies on RAG methods, benchmarks, an
    - arXiv, 2024-03-31 , https://arxiv.org/abs/2404.00610
    - Chi-Min Chan, Chunpu Xu, Ruibin Yuan, Hongyin Luo, Wei Xue, Yike Guo, Jie Fu
 
+
 ### Multimodal
 1. **Murag: Multimodal retrieval-augmented generator for open question answering over images and text.**
    - EMNLP, 2022-12-7 https://aclanthology.org/2022.emnlp-main.375.pdf
@@ -49,6 +50,10 @@ This repository is used to collect recent studies on RAG methods, benchmarks, an
 
 
 ## 📊 Benchmark
+1. **Not All Languages are Equal: Insights into Multilingual Retrieval-Augmented Generation**
+   - arXiv, 2024-10-29, https://arxiv.org/abs/2410.21970
+   - Suhang Wu, Jialong Tang, Baosong Yang, Ante Wang, Kaidi Jia, Jiawei Yu, Junfeng Yao, Jinsong Su
+
 
 ### Conversational
 1. **RAC: Retrieval-augmented Conversation Dataset for Open-domain Question Answering in Conversational Settings**
