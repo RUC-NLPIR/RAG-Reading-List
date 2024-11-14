@@ -25,6 +25,9 @@ This repository is used to collect recent studies on RAG methods, benchmarks, an
 6. **SmartRAG: Jointly Learn RAG-Related Tasks From the Environment Feedback**
    - arxiv, 2024-10-22, https://arxiv.org/abs/2410.18141v1
    - Jingsheng Gao, Linxu Li, Weiyuan Li, Yuzhuo Fu, Bin Dai
+7. **RAGulator: Lightweight Out-of-Context Detectors for Grounded Text Generation**
+   - arxiv, 2024-11-6, https://arxiv.org/abs/2411.03920
+   - Ian Poey, Jiajun Liu, Qishuai Zhong, Adrien Chenailler
 
 ### Multimodal
 1. **Murag: Multimodal retrieval-augmented generator for open question answering over images and text.**
