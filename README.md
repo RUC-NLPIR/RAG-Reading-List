@@ -22,7 +22,9 @@ This repository is used to collect recent studies on RAG methods, benchmarks, an
 5. **RuleRAG: Rule-guided retrieval-augmented generation with language models for question answering**
    - arxiv, 2024-10-15, https://arxiv.org/abs/2410.22353v1
    - Zhongwu Chen, Chengjin Xu, Dingmin Wang, Zhen Huang, Yong Dou, Jian Guo
-
+6. **SmartRAG: Jointly Learn RAG-Related Tasks From the Environment Feedback**
+   - arxiv, 2024-10-22, https://arxiv.org/abs/2410.18141v1
+   - Jingsheng Gao, Linxu Li, Weiyuan Li, Yuzhuo Fu, Bin Dai
 
 ### Multimodal
 1. **Murag: Multimodal retrieval-augmented generator for open question answering over images and text.**
@@ -65,6 +67,11 @@ This repository is used to collect recent studies on RAG methods, benchmarks, an
 1. **RAC: Retrieval-augmented Conversation Dataset for Open-domain Question Answering in Conversational Settings**
    - EMNLP 2024 Industry Track, https://aclanthology.org/2024.emnlp-industry.108
    - Bonggeun Choi, JeongJae Park, Yoonsung Kim, Jaehyun Park, Youngjoong Ko
+
+## Analysis
+1. **Long Context RAG Performance of Large Language Models**
+   - arxiv, 2024-11-5, https://arxiv.org/abs/2411.03538
+   - Quinn Leng, Jacob Portes, Sam Havens, Matei Zaharia, Michael Carbin
 
 ## 🛠️ Toolkit
 1. **RETA-LLM: A Retrieval-Augmented Large Language Model Toolkit**
