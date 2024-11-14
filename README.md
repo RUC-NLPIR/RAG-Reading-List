@@ -19,6 +19,9 @@ This repository is used to collect recent studies on RAG methods, benchmarks, an
 4. **Retrieval-Augmented Generation with Estimation of Source Reliability**
    - arxiv, 2024-10-30, https://arxiv.org/abs/2410.22954
    - Jeongyeon Hwang, Junyoung Park, Hyejin Park, Sangdon Park, Jungseul Ok
+5. **RuleRAG: Rule-guided retrieval-augmented generation with language models for question answering**
+   - arxiv, 2024-10-15, https://arxiv.org/abs/2410.22353v1
+   - Zhongwu Chen, Chengjin Xu, Dingmin Wang, Zhen Huang, Yong Dou, Jian Guo
 
 
 ### Multimodal
