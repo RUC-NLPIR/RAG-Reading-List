@@ -16,6 +16,9 @@ This repository is used to collect recent studies on RAG methods, benchmarks, an
 3. **RQ-RAG: Learning to Refine Queries for Retrieval Augmented Generation**
    - arXiv, 2024-03-31 , https://arxiv.org/abs/2404.00610
    - Chi-Min Chan, Chunpu Xu, Ruibin Yuan, Hongyin Luo, Wei Xue, Yike Guo, Jie Fu
+4. **Retrieval-Augmented Generation with Estimation of Source Reliability**
+   - arxiv, 2024-10-30, https://arxiv.org/abs/2410.22954
+   - Jeongyeon Hwang, Junyoung Park, Hyejin Park, Sangdon Park, Jungseul Ok
 
 
 ### Multimodal
