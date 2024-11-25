@@ -17,17 +17,20 @@ This repository is used to collect recent studies on RAG methods, benchmarks, an
    - arXiv, 2024-03-31 , https://arxiv.org/abs/2404.00610
    - Chi-Min Chan, Chunpu Xu, Ruibin Yuan, Hongyin Luo, Wei Xue, Yike Guo, Jie Fu
 4. **Retrieval-Augmented Generation with Estimation of Source Reliability**
-   - arxiv, 2024-10-30, https://arxiv.org/abs/2410.22954
+   - arXiv, 2024-10-30, https://arxiv.org/abs/2410.22954
    - Jeongyeon Hwang, Junyoung Park, Hyejin Park, Sangdon Park, Jungseul Ok
 5. **RuleRAG: Rule-guided retrieval-augmented generation with language models for question answering**
-   - arxiv, 2024-10-15, https://arxiv.org/abs/2410.22353v1
+   - arXiv, 2024-10-15, https://arxiv.org/abs/2410.22353v1
    - Zhongwu Chen, Chengjin Xu, Dingmin Wang, Zhen Huang, Yong Dou, Jian Guo
 6. **SmartRAG: Jointly Learn RAG-Related Tasks From the Environment Feedback**
-   - arxiv, 2024-10-22, https://arxiv.org/abs/2410.18141v1
+   - arXiv, 2024-10-22, https://arxiv.org/abs/2410.18141v1
    - Jingsheng Gao, Linxu Li, Weiyuan Li, Yuzhuo Fu, Bin Dai
 7. **RAGulator: Lightweight Out-of-Context Detectors for Grounded Text Generation**
-   - arxiv, 2024-11-6, https://arxiv.org/abs/2411.03920
+   - arXiv, 2024-11-6, https://arxiv.org/abs/2411.03920
    - Ian Poey, Jiajun Liu, Qishuai Zhong, Adrien Chenailler
+8. **Agentic Information Retrieval**
+   - arXiv, 2024-10-29, https://arxiv.org/abs/2410.09713
+   - Weinan Zhang, Junwei Liao, Ning Li, Kounianhua Du
 
 ### Multimodal
 1. **Murag: Multimodal retrieval-augmented generator for open question answering over images and text.**
