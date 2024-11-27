@@ -35,9 +35,9 @@ This repository is used to collect recent studies on RAG methods, benchmarks, an
    - arXiv, 2024-10-29, https://arxiv.org/abs/2410.09713
    - Weinan Zhang, Junwei Liao, Ning Li, Kounianhua Du
 10. **TRACE the Evidence: Constructing Knowledge-Grounded Reasoning Chains for Retrieval-Augmented Generation**
-   - EMNLP 2024 (Findings), 2024-6-17, https://aclanthology.org/2024.findings-emnlp.496/
-   - Jinyuan Fang, Zaiqiao Meng, Craig MacDonald
-   - This paper proposes method TRACE that extracts logically connected knowledge triples from the retrieved docuemnts.
+  - EMNLP 2024 (Findings), 2024-6-17, https://aclanthology.org/2024.findings-emnlp.496/
+  - Jinyuan Fang, Zaiqiao Meng, Craig MacDonald
+  - This paper proposes method TRACE that extracts logically connected knowledge triples from the retrieved docuemnts.
      
 ### Multimodal
 1. **Murag: Multimodal retrieval-augmented generator for open question answering over images and text.**
