@@ -38,7 +38,7 @@ This repository is used to collect recent studies on RAG methods, benchmarks, an
    - EMNLP 2024 (Findings), 2024-6-17, https://aclanthology.org/2024.findings-emnlp.496/
    - Jinyuan Fang, Zaiqiao Meng, Craig MacDonald
    - This paper proposes method TRACE that extracts logically connected knowledge triples from the retrieved docuemnts.
-   - 
+     
 ### Multimodal
 1. **Murag: Multimodal retrieval-augmented generator for open question answering over images and text.**
    - EMNLP, 2022-12-7 https://aclanthology.org/2022.emnlp-main.375.pdf
