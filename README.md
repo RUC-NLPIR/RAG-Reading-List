@@ -6,7 +6,7 @@ This repository is used to collect recent studies on RAG methods, benchmarks, an
 
 ### Text only
 1. **Answering Questions by Meta-Reasoning over Multiple Chains of Thought**
-   - EMNLP, 2023-04-25, https://aclanthology.org/2023.emnlp-main.364/
+   - EMNLP 2023, 2023-04-25, https://aclanthology.org/2023.emnlp-main.364/
    - Ori Yoran, Tomer Wolfson, Ben Bogin, Uri Katz, Daniel Deutch, Jonathan Berant
    - This paper proposes a multi-chain reasoning method (meta-CoT) that combining multiple reasoning chains to infer the final answer.
 2. **In-Context Retrieval-Augmented Language Models**
@@ -34,7 +34,11 @@ This repository is used to collect recent studies on RAG methods, benchmarks, an
 9. **Agentic Information Retrieval**
    - arXiv, 2024-10-29, https://arxiv.org/abs/2410.09713
    - Weinan Zhang, Junwei Liao, Ning Li, Kounianhua Du
-
+10. **TRACE the Evidence: Constructing Knowledge-Grounded Reasoning Chains for Retrieval-Augmented Generation**
+   - EMNLP 2024 (Findings), 2024-6-17, https://aclanthology.org/2024.findings-emnlp.496/
+   - Jinyuan Fang, Zaiqiao Meng, Craig MacDonald
+   - This paper proposes method TRACE that extracts logically connected knowledge triples from the retrieved docuemnts.
+   - 
 ### Multimodal
 1. **Murag: Multimodal retrieval-augmented generator for open question answering over images and text.**
    - EMNLP, 2022-12-7 https://aclanthology.org/2022.emnlp-main.375.pdf
