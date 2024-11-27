@@ -5,30 +5,33 @@ This repository is used to collect recent studies on RAG methods, benchmarks, an
 ## 📄 Method
 
 ### Text only
-
-1. **In-Context Retrieval-Augmented Language Models**
+1. **Answering Questions by Meta-Reasoning over Multiple Chains of Thought**
+   - EMNLP, 2023-04-25, https://aclanthology.org/2023.emnlp-main.364/
+   - Ori Yoran, Tomer Wolfson, Ben Bogin, Uri Katz, Daniel Deutch, Jonathan Berant
+   - This paper proposes a multi-chain reasoning method (meta-CoT) that combining multiple reasoning chains to infer the final answer.
+2. **In-Context Retrieval-Augmented Language Models**
    - arXiv, 2023-08-01, https://arxiv.org/abs/2302.00083
    - Ori Ram, Yoav Levine, Itay Dalmedigos, Dor Muhlgay, Amnon Shashua, Kevin Leyton-Brown, Yoav Shoham
    - Using retrieved results can effectively imrpove LLMs' performance. Retrieve after every $k$ tokens, and the performance can be improved when $k$ is small (more frequent retrieval). Reranking is also helpful.
-2. **PlanXRAG: Planning-guided Retrieval Augmented Generation**
+3. **PlanXRAG: Planning-guided Retrieval Augmented Generation**
    - arXiv, 2024-10-28, https://arxiv.org/abs/2410.20753
    - Prakhar Verma, Sukruta Prakash Midigeshi, Gaurav Sinha, Arno Solin, Nagarajan Natarajan, Amit Sharma
-3. **RQ-RAG: Learning to Refine Queries for Retrieval Augmented Generation**
+4. **RQ-RAG: Learning to Refine Queries for Retrieval Augmented Generation**
    - arXiv, 2024-03-31 , https://arxiv.org/abs/2404.00610
    - Chi-Min Chan, Chunpu Xu, Ruibin Yuan, Hongyin Luo, Wei Xue, Yike Guo, Jie Fu
-4. **Retrieval-Augmented Generation with Estimation of Source Reliability**
+5. **Retrieval-Augmented Generation with Estimation of Source Reliability**
    - arXiv, 2024-10-30, https://arxiv.org/abs/2410.22954
    - Jeongyeon Hwang, Junyoung Park, Hyejin Park, Sangdon Park, Jungseul Ok
-5. **RuleRAG: Rule-guided retrieval-augmented generation with language models for question answering**
+6. **RuleRAG: Rule-guided retrieval-augmented generation with language models for question answering**
    - arXiv, 2024-10-15, https://arxiv.org/abs/2410.22353v1
    - Zhongwu Chen, Chengjin Xu, Dingmin Wang, Zhen Huang, Yong Dou, Jian Guo
-6. **SmartRAG: Jointly Learn RAG-Related Tasks From the Environment Feedback**
+7. **SmartRAG: Jointly Learn RAG-Related Tasks From the Environment Feedback**
    - arXiv, 2024-10-22, https://arxiv.org/abs/2410.18141v1
    - Jingsheng Gao, Linxu Li, Weiyuan Li, Yuzhuo Fu, Bin Dai
-7. **RAGulator: Lightweight Out-of-Context Detectors for Grounded Text Generation**
+8. **RAGulator: Lightweight Out-of-Context Detectors for Grounded Text Generation**
    - arXiv, 2024-11-6, https://arxiv.org/abs/2411.03920
    - Ian Poey, Jiajun Liu, Qishuai Zhong, Adrien Chenailler
-8. **Agentic Information Retrieval**
+9. **Agentic Information Retrieval**
    - arXiv, 2024-10-29, https://arxiv.org/abs/2410.09713
    - Weinan Zhang, Junwei Liao, Ning Li, Kounianhua Du
 
