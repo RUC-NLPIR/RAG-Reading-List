@@ -30,14 +30,14 @@ This repository is used to collect recent studies on RAG methods, benchmarks, an
    - arXiv, 2024-10-15, https://arxiv.org/abs/2410.22353v1
    - Zhongwu Chen, Chengjin Xu, Dingmin Wang, Zhen Huang, Yong Dou, Jian Guo
 9. **SmartRAG: Jointly Learn RAG-Related Tasks From the Environment Feedback**
-   - arXiv, 2024-10-22, https://arxiv.org/abs/2410.18141v1
-   - Jingsheng Gao, Linxu Li, Weiyuan Li, Yuzhuo Fu, Bin Dai
-10. **RAGulator: Lightweight Out-of-Context Detectors for Grounded Text Generation**
-   - arXiv, 2024-11-6, https://arxiv.org/abs/2411.03920
-   - Ian Poey, Jiajun Liu, Qishuai Zhong, Adrien Chenailler
+    - arXiv, 2024-10-22, https://arxiv.org/abs/2410.18141v1
+    - Jingsheng Gao, Linxu Li, Weiyuan Li, Yuzhuo Fu, Bin Dai
+11. **RAGulator: Lightweight Out-of-Context Detectors for Grounded Text Generation**
+    - arXiv, 2024-11-6, https://arxiv.org/abs/2411.03920
+    - Ian Poey, Jiajun Liu, Qishuai Zhong, Adrien Chenailler
 11. **Agentic Information Retrieval**
-   - arXiv, 2024-10-29, https://arxiv.org/abs/2410.09713
-   - Weinan Zhang, Junwei Liao, Ning Li, Kounianhua Du
+    - arXiv, 2024-10-29, https://arxiv.org/abs/2410.09713
+    - Weinan Zhang, Junwei Liao, Ning Li, Kounianhua Du
 11. **TRACE the Evidence: Constructing Knowledge-Grounded Reasoning Chains for Retrieval-Augmented Generation**
     - EMNLP 2024 (Findings), 2024-6-17, https://aclanthology.org/2024.findings-emnlp.496
     - Jinyuan Fang, Zaiqiao Meng, Craig MacDonald
