@@ -5,36 +5,40 @@ This repository is used to collect recent studies on RAG methods, benchmarks, an
 ## 📄 Method
 
 ### Text only
-1. **Answering Questions by Meta-Reasoning over Multiple Chains of Thought**
+1. **Measuring and Narrowing the Compositionality Gap in Language Models**
+   - EMNLP 2023 Findings, 2022-10-07, https://aclanthology.org/2023.findings-emnlp.378/
+   - Ofir Press, Muru Zhang, Sewon Min, Ludwig Schmidt, Noah Smith, Mike Lewis
+   - This paper proposes self-ask, an elicitive prompting strategy that ask the LLM itself to generate the decomposition of a complex query. The Bamboogle dataset is also created by this paper.
+3. **Answering Questions by Meta-Reasoning over Multiple Chains of Thought**
    - EMNLP 2023, 2023-04-25, https://aclanthology.org/2023.emnlp-main.364/
    - Ori Yoran, Tomer Wolfson, Ben Bogin, Uri Katz, Daniel Deutch, Jonathan Berant
    - This paper proposes a multi-chain reasoning method (meta-CoT) that combining multiple reasoning chains to infer the final answer.
-2. **In-Context Retrieval-Augmented Language Models**
+4. **In-Context Retrieval-Augmented Language Models**
    - arXiv, 2023-08-01, https://arxiv.org/abs/2302.00083
    - Ori Ram, Yoav Levine, Itay Dalmedigos, Dor Muhlgay, Amnon Shashua, Kevin Leyton-Brown, Yoav Shoham
    - Using retrieved results can effectively imrpove LLMs' performance. Retrieve after every $k$ tokens, and the performance can be improved when $k$ is small (more frequent retrieval). Reranking is also helpful.
-3. **PlanXRAG: Planning-guided Retrieval Augmented Generation**
+5. **PlanXRAG: Planning-guided Retrieval Augmented Generation**
    - arXiv, 2024-10-28, https://arxiv.org/abs/2410.20753
    - Prakhar Verma, Sukruta Prakash Midigeshi, Gaurav Sinha, Arno Solin, Nagarajan Natarajan, Amit Sharma
-4. **RQ-RAG: Learning to Refine Queries for Retrieval Augmented Generation**
+6. **RQ-RAG: Learning to Refine Queries for Retrieval Augmented Generation**
    - arXiv, 2024-03-31 , https://arxiv.org/abs/2404.00610
    - Chi-Min Chan, Chunpu Xu, Ruibin Yuan, Hongyin Luo, Wei Xue, Yike Guo, Jie Fu
-5. **Retrieval-Augmented Generation with Estimation of Source Reliability**
+7. **Retrieval-Augmented Generation with Estimation of Source Reliability**
    - arXiv, 2024-10-30, https://arxiv.org/abs/2410.22954
    - Jeongyeon Hwang, Junyoung Park, Hyejin Park, Sangdon Park, Jungseul Ok
-6. **RuleRAG: Rule-guided retrieval-augmented generation with language models for question answering**
+8. **RuleRAG: Rule-guided retrieval-augmented generation with language models for question answering**
    - arXiv, 2024-10-15, https://arxiv.org/abs/2410.22353v1
    - Zhongwu Chen, Chengjin Xu, Dingmin Wang, Zhen Huang, Yong Dou, Jian Guo
-7. **SmartRAG: Jointly Learn RAG-Related Tasks From the Environment Feedback**
+9. **SmartRAG: Jointly Learn RAG-Related Tasks From the Environment Feedback**
    - arXiv, 2024-10-22, https://arxiv.org/abs/2410.18141v1
    - Jingsheng Gao, Linxu Li, Weiyuan Li, Yuzhuo Fu, Bin Dai
-8. **RAGulator: Lightweight Out-of-Context Detectors for Grounded Text Generation**
+10. **RAGulator: Lightweight Out-of-Context Detectors for Grounded Text Generation**
    - arXiv, 2024-11-6, https://arxiv.org/abs/2411.03920
    - Ian Poey, Jiajun Liu, Qishuai Zhong, Adrien Chenailler
-9. **Agentic Information Retrieval**
+11. **Agentic Information Retrieval**
    - arXiv, 2024-10-29, https://arxiv.org/abs/2410.09713
    - Weinan Zhang, Junwei Liao, Ning Li, Kounianhua Du
-10. **TRACE the Evidence: Constructing Knowledge-Grounded Reasoning Chains for Retrieval-Augmented Generation**
+11. **TRACE the Evidence: Constructing Knowledge-Grounded Reasoning Chains for Retrieval-Augmented Generation**
     - EMNLP 2024 (Findings), 2024-6-17, https://aclanthology.org/2024.findings-emnlp.496
     - Jinyuan Fang, Zaiqiao Meng, Craig MacDonald
     - This paper proposes method TRACE that extracts logically connected knowledge triples from the retrieved docuemnts.
